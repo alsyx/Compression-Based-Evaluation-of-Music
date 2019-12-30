@@ -1,0 +1,24 @@
+Author: Alsen Aligullu
+Candidate Number: 135342
+Due Date: 30/04/2018
+Description:
+
+This project is an implementation of a compression based evaluation system for 
+representations of music files. The system uses Lempel-Ziv-Welch algorithm to 
+compress and decompress files. There are also functions for doing the evaluation.
+Evaluation is based on the complexity of the representations and the complexity 
+value is based on compression rate and effort to compress the input data.
+
+Commands to use the system;
+
+1) Put only 1 .abc file in the "abcFiles" directory.
+2) Open the Jupyter Notebook using the command line.
+3) Select the directory where "music_evaluation.ipynb" file is.
+4) Open the "music_evaluation.ipynb" on Jupyter Notebook and run all the cells.
+5) If there is a problem in definition of "dic" please re-run that cell.
+6) After re-running the cell that defines the "dic" run the MAIN CELL again. 
+
+*** To build a growing dictionary after the first successful run don't define the 
+"dic" again by running that cell. Only run the MAIN CELL with the same input or a 
+different input. Bare in mind that only 1 file at a time can be placed in the 
+"abcFiles" directory.
