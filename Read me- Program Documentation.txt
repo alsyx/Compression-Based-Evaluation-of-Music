@@ -1,6 +1,5 @@
 Author: Alsen Aligullu
-Candidate Number: 135342
-Due Date: 30/04/2018
+
 Description:
 
 This project is an implementation of a compression based evaluation system for 
